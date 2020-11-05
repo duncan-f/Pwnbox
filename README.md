@@ -70,13 +70,17 @@ To get the pwnbox icons at the top. Install [Sublime Text](https://www.sublimete
 Right-click an empty panel space. Press `Add To Panel`. Click `Custom Application Launcher`. 
 
 Set `Name` to Powershell
+
 Set `Command` to pwsh
+
 Set icon to powershell.svg (powershell.svg file is located in /usr/share/icons/htb)
 
 Do the same but with sublime text like so:
 
 Name: Sublime Text
+
 Command: sublime-text
+
 Icon: sublime-text.png (sublime-text file is located in /usr/share/icons/htb)
 
 After all this is done. Right click your system monitor (the 3 boxes that show your system usage and stuff) and click `Preferences`. Uncheck everything in Monitored resources but do not uncheck Processor. Set the `System Monitor Width` to 135 and the `System Monitor Update Interval` to 100 and then close out. 
