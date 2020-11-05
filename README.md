@@ -90,6 +90,7 @@ Right click an empty space then press `Add To Panel`. Search up `Workspace Switc
 On your bottom dock, right-click an empty space and press `Delete This Panel`. After this, go to System -> Preferences -> Personal -> Startup Applications. In the new window. Press the `Add` button and set these:
 
 Name: Plank
+
 Command: plank
 
 and press the add button. Then press close and reboot your machine! You should now have a full Pwnbox setup!
