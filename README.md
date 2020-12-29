@@ -36,7 +36,6 @@ chmod +x install.sh
 ```
 
 Make sure to follow the installation instructions!
-
 This will install everything you need to make your pwnbox Setup.
 
 ## Step 3: Selecting Theme
@@ -61,7 +60,7 @@ For `Bold Color`. Untick where it says `Same as text color` then click the box n
 
 And lastly, for `Background Color`. Click the box next to it. Click the plus button that is below under the text that says `Custom` and set the color code to this: `#141D2B`.
 
-## Step 5: Customising Panel
+## Step 6: Customising Panel
 
 On the top of your panel. Right-click any space and then in the new box that appeared. Press `Add to panel`. Next to where it says `Find an item to add to the panel`. Type in the box `Command`, double click the command item that appeared. A clock should appear. Right-click the clock, click `Preferences` and change where it says `date +%T` to `/opt/vpnpanel.sh`. This will display your TUN0 IP when connected to OpenVPN. 
 
@@ -89,7 +88,7 @@ Right click an empty space then press `Add To Panel`. Search up `Workspace Switc
 
 ![htb bar](bar.jpg?raw=true "Pwnbox")
 
-## Step 6: Setting Dock
+## Step 7: Setting Dock
 
 On your bottom dock, right-click an empty space and press `Delete This Panel`. After this, go to System -> Preferences -> Personal -> Startup Applications. In the new window. Press the `Add` button and set these:
 
