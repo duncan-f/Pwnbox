@@ -102,4 +102,4 @@ and press the add button. Then press close and reboot your machine! You should n
 
 Report them to my Discord:
 
-Discord: Taylor#1337
+Discord: Kaito#0652
