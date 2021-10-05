@@ -43,6 +43,7 @@ setup() {
     sudo chmod 777 /usr/share/themes/HackTheBox
     sudo chmod 777 htb.jpg
     sudo cp htb.jpg /usr/share/backgrounds/htb.jpg
+    sudo apt-get update
     sudo apt install -y plank
 }
  
