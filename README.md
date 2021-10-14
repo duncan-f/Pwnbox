@@ -97,9 +97,3 @@ Name: Plank
 Command: plank
 
 and press the add button. Then press close and reboot your machine! You should now have a full Pwnbox setup!
-
-## Any issues?
-
-Report them to my Discord:
-
-Discord: Kaito#0652
